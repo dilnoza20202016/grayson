@@ -1,0 +1,21 @@
+@font-face{
+  font-family: Roboto;
+  src: url(../fonts/Roboto-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face{
+  font-family: Roboto;
+  src: url(../fonts/Roboto-Regular.ttf);
+  font-weight: 400;
+}
+@font-face{
+  font-family: playfairDisplay-bold;
+  src: url(../fonts/PlayfairDisplay-Bold.ttf) ;
+  font-weight: 700;
+}
+@font-face{
+  font-family: playfairDisplay-Regular;
+  src: url(../fonts/PlayfairDisplay-Regular.ttf);
+  font-weight: 400;
+}
